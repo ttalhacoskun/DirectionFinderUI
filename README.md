@@ -1,1 +1,5 @@
-# DirectionFinderUI
+# DirectionFinderUI![Simulator Screenshot - iPhone 14 Pro - 2023-08-12 at 00 36 09](https://github.com/ttalhacoskun/DirectionFinderUI/assets/85844606/f0a9b442-de8b-480f-83e9-440a49c97612)
+![Simulator Screenshot - iPhone 14 Pro - 2023-08-12 at 00 34 06](https://github.com/ttalhacoskun/DirectionFinderUI/assets/85844606/0bfee255-895c-40fc-b831-bafd5a6dfd14)
+![Simulator Screenshot - iPhone 14 Pro - 2023-08-12 at 00 33 38](https://github.com/ttalhacoskun/DirectionFinderUI/assets/85844606/26ff9ff7-d5b1-4337-b316-db450984907c)
+![Simulator Screenshot - iPhone 14 Pro - 2023-08-12 at 00 33 30](https://github.com/ttalhacoskun/DirectionFinderUI/assets/85844606/8b135d4e-e149-4002-8507-bed06b915a03)
+![Simulator Screenshot - iPhone 14 Pro - 2023-08-12 at 00 32 48](https://github.com/ttalhacoskun/DirectionFinderUI/assets/85844606/906c94f3-fe7e-4a6b-938b-ca32f9b950af)
